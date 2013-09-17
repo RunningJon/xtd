@@ -1,7 +1,7 @@
 ********************************************************************************
 ** Author: Jon Roberts
-** Email: jon.roberts@emc.com and greenplumguru@gmail.com
-** Date: 2011-12-01
+** Email: jroberts@gopivotal.com and jgronline@gmail.com
+** Date: 2013-09-17
 ** Application Name: XTD
 ** Description: eXtract TeraData data using FASTEXPORT via JDBC driver
 
@@ -11,6 +11,11 @@
 XTD is a free application with zero support from the author or from EMC.  The 
 application is intended to demonstrate a way to get data from TeraData to be 
 used with Greenplum External Web Tables.  
+
+********************************************************************************
+** License
+********************************************************************************
+XTD is open source and licensed under the Boost Software License.
 
 ********************************************************************************
 ** Full Description
