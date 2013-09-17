@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: TD
+Specification-Title: "TD"
+Specification-Version: "1.0"
+Created-By: 1.6.0_22-b04-307-10M3261 
+Build-Date: 12/1/2011 09:29 AM
