@@ -1,6 +1,10 @@
+***********************************************************************************
+** Repo is no longer maintained. **
+** Use PXF instead. **
+***********************************************************************************
+
 ********************************************************************************
 ** Author: Jon Roberts
-** Email: jroberts@gopivotal.com and jgronline@gmail.com
 ** Date: 2013-09-17
 ** Application Name: XTD
 ** Description: eXtract TeraData data using FASTEXPORT via JDBC driver
